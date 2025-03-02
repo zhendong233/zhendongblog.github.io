@@ -1,2 +1,2 @@
-# zhendongblog.github.io
+# 张振东的博客
 这是我自己的博客网站
